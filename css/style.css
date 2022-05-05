@@ -1,0 +1,42 @@
+header{
+    background-color: blue;
+    margin: 5px;
+    padding: 30px;
+    border-radius: 10px;
+}
+.container{
+    display: flex;
+    justify-content: space-evenly;
+}
+article{
+    background-color: coral;
+    margin: 5px;
+    padding: 40px;
+    height: 500px;
+    width: 20%;   
+    border-radius: 20px;
+}
+nav{
+    background-color: rgb(80, 135, 255);
+    margin: 5px;
+    padding: 40px;
+    height: 500px; 
+    width: 50%;
+    border-radius: 20px;
+    
+}
+aside{
+    background-color: coral;
+    margin: 5px;
+    padding: 40px;
+    height: 500px;
+    width: 20%;
+    border-radius: 20px; 
+      
+}
+footer{
+    background-color: blue;
+    margin: 5px;
+    padding: 30px;
+    border-radius: 10px;
+}
